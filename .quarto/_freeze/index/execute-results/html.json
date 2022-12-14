@@ -1,0 +1,14 @@
+{
+  "hash": "159346d805927cafaadbe16511d74d5c",
+  "result": {
+    "markdown": "---\ntitle: \"E. Duke Chase\"\nimage: mypic.jpg\nresources: cv.pdf\nabout:\n  template: trestles\n  image-shape: rounded\n  image-width: 15rem\n  links: \n    - text: Email\n      icon: envelope\n      href: mailto:ellington.chase@ucdenver.edu\n    - text: GitHub\n      icon: github\n      href: https://github.com/EDukeChase\n    - text: CV\n      icon: file-text\n      href: cv.pdf\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

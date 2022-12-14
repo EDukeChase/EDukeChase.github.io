@@ -1,0 +1,41 @@
+---
+title: "E. Duke Chase"
+image: mypic.jpg
+resources: cv.pdf
+id: ppc
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15rem
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:ellington.chase@ucdenver.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/EDukeChase
+    - text: CV
+      icon: file-text
+      href: cv.pdf
+---
+
+:::{#ppc}
+## Skills
+* R, Python, SPSS
+* Photography, graphic design, print design
+* Wilderness emergency medicine
+
+## Education
+* Post-bac:
+  * CU Denver
+    * Non-degree seeking
+  * WNMU
+    * Non-degree seeking
+* Undergrad
+  * CU Boulder
+    * Molecular, Cellular, and Developmental Biology (2014)
+    * Neuroscience (2014)
+    * Integrative Physiology (2012)
+* High School
+  * Hawaii Preparatory Academy
+:::
